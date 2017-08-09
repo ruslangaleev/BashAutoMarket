@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Этот файл используется процессом публикации или упаковки вашего веб-проекта. Можно настроить поведение этого процесса,
+изменив этот файл MSBuild. Подробности см. на странице https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>ftp://bashautotorg.somee.com/d:\DZHosts\LocalUser\nafisovich\www.bashautotorg.somee.com</_PublishTargetUrl>
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAlxqeC1w7xEGVRYk35C3A4gAAAAACAAAAAAAQZgAAAAEAACAAAACmfcyzxqKZGapQXo8Wyp8UEWFWHVBQBWJ4iRsp+nDdlQAAAAAOgAAAAAIAACAAAADnknLl+CuvkCXey7G5sjID7mb0X4/W/at0a7y60nUuRSAAAADPjrj+cjLOUZN8kHflziUeD4Ez5bs2gMfQK9LN7lTstEAAAACGW6ocaNn8k969ZfkHu8rlBnlF8szBp4dm+0isZ8AgKqsXJx90TyJFZzH7bKAHgwqmIfXXCYyJhDsrBf3qPDLI</EncryptedPassword>
+  </PropertyGroup>
+</Project>
